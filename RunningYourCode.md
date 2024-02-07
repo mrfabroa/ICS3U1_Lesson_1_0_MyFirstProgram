@@ -13,7 +13,7 @@
 ![cloning2](https://github.com/SACHSTech/CodeHS_LessonTemplate/assets/10250018/bb8cf9d7-8552-4c30-b893-0f6029d1a15b)
 
 ## Edit Your Code
-Add your code in between the brackets of the `run()` method of your `.java` file (ie. `Program1.java1`)
+Add your code in between the brackets of the `run()` method of your `.java` file (ie. `Program1.java`)
 ![running_code](https://github.com/SACHSTech/CodeHS_LessonTemplate/assets/10250018/7567ef79-8e51-41c4-9fa3-399bf0908c06)
 
 
